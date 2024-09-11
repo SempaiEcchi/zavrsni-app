@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "firmus-416712",
+  "private_key_id": "bb5c578c7999efd6b12b1abee3684d6055b59f68",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCqbaSBxYhMAuRx\nqsmitaMHqbc9bJJj4HzLoQ2B2m8J0y3UEbbkVlN4/ZrsvEfG9ibxFuS+RI7P/Fk3\nwM0XNpuiGTsDys6IvDnH5hCnBlcrA+qqiljW1QgdAaZD/4QNND3KqKeMrLA9k1+E\nFeCbt/UrJ8DAZvy/pAMrJ71A9pcila6FxL/yXfS9BqHF2DO6aXjoVJrDkBHPY+iB\nX8D0BuIhu65VIWA/O0nCWUo/VnyuUZEjYmAGwjbrNIHdL0qTvuIxLdSKo9nnx6Gq\nBLKbiFe2weZkHOW1lPbAIrorNGbrax6H8jF9uXL/7IQMDvZYGRYPpGKcyhZbXK5y\nOiYyHcatAgMBAAECggEADreBl2gylRfB2NPt7gQ/1ANSjLYRrRi/Rgk+BJrTcFaB\nVFkEQVL4CdBifrNiglqSscpvjcOXTnwEy0T1oN3JEjYaC8GJVLLmTW3/PaEVSWRg\n8QGZ2tFSDkksbZ5Eraw3csbeEw59eI+/lYUbHG9F90hLQ4IRLM5RrLoVhGTW17hP\nhTsdZIfrdAjKgCvod04ixiYah6O4Gr7b4btqJAdmLR/yVPOE0ZjJCQOOX/QO4fKf\nAfeRVDeSeKWluaLLX8oBqbV704Us3CDsiA6Zs47tSs2vUCXlrbqVD6hxZJo8moAV\nfS3h7jXFoPBiulurdhe2Z1lfrnQ0kA6LQttgxRkGAQKBgQDiUhOnp8JEwK7lEL2w\n7ADL0O+pG7FvCe68SscswBbiibHGVtEkxNMbr0W78uZrwt3ykmd7cO3KL9Z8/vi5\nTlcvJEsL00BR+deqaCeMBQwLayUu+fWc0uht7+d1tSyXqFLmu9rh0DBw5xwvbISW\nioBayOdizpJu0at8EMGQ8bwaAQKBgQDAxy00ZhjpbQCfeb9Gk57ahIrPOGuaDcHd\nMZhqP9UqFJbuLxtZ1l3K2/D3hxPZalCezMFuIlMwbyPIq0ytCsMt70Lc78Cb2nNY\nex1uJLwQgYi9WRzauxqDCPT1I2PvHrGrTlGu07GRu7fW1ZoOeujD0rUgeTaf5Hmw\nhmCF8Lg0rQKBgQDPTn1ggiNKFPFfM5F+QP+NsooE7i/+VSvQX/LHxABya8xisF2M\n/5mcb1VCDwIPzYS+UGrnwI6gOGeRQYCVRPRJY0Y2w7/UFzX8isFG2cypnPCHckEP\n8IUlRq5OvLDnDjE51vNtCuWEVb4UlqNwvddK0WJZuHybdAVPdI3J9hPmAQKBgQCo\nphcf/inRHHEtEx+JKOASH14ohx1repmdXyQN36Ym2DhqS3/MCkOnkt6uTdfJnr7F\nDjAyn4jTmIdfqKy9veqepvCBxKVmM6gxQhOvJif48LmlnO4nVQSOmilixAFLUjjw\nuuWu4rg33FeqdNf/zvsPRaj7rc9h9kmXaxfKVZtxSQKBgAVhW5N5TTcw+xsv1pWs\nBIGNWaET+aWY5jdMRr3/wg1Uegt/YYONBTjY7Z+B2E7eTSl/7ArLkNOoMIAo7Vyj\nTmJnflfHVK2CEOAaB634tVw76FsCj0g9YhnacnkARCy/RnKPodHyVSny4MG5tAAD\nwGLtY/z+IbGR3oPOjpn+kBKK\n-----END PRIVATE KEY-----\n",
+  "client_email": "playstoredistribution@firmus-416712.iam.gserviceaccount.com",
+  "client_id": "109332950539065693177",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/playstoredistribution%40firmus-416712.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

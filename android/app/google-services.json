@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "749687638156",
+    "project_id": "firmus-jobs",
+    "storage_bucket": "firmus-jobs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749687638156:android:22639510458a4328e413a9",
+        "android_client_info": {
+          "package_name": "com.firmusapp.jobs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749687638156-cma3rlltku77q6katp930mqs2t8e08nn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6AET7LOelH3JMb2o8S85J2WXj3HCRciU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749687638156-cma3rlltku77q6katp930mqs2t8e08nn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "749687638156-a9a81ffcs9osqhh1q4qg5s32h6p3fub0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.firmusapp.jobs",
+                "app_store_id": "6463743991"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

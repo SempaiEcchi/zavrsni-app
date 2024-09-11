@@ -1,0 +1,62 @@
+{
+    "helloWorld": "Bok!",
+    "active":"Aktivni",
+    "register" : "Registriraj se",
+    "skipLogin" : "Istaži kao gost",
+    "alreadyRegistered" : "Već imaš profil?",
+    "pickCity" : "Odaberi grad u kojem studiraš",
+    "save" : "Spremi",
+    "back": "Povratak",
+    "videoCreationTitle" : "Prezentiraj se poslodavcima kroz kratki video \uD83C\uDFA5",
+    "videoCreationsubtitle" : "Kroz video od maksimalno 1 minutu prezentiraj zašto bi poslodavac trebao odabrati baš tebe!",
+    "videoOptional" : "*korak nije obavezan te je video moguće snimiti/učitati naknadno",
+    "experienceOptional" : "*korak nije obavezan te je poslovno iskustvo moguće naknadno dodavati i uređivati",
+    "pickExperience": "Već imaš poslovnog iskustva?",
+    "pickExperienceSubtitle": "Povećaj šanse za matching sa idealnim poslodavcem dodavanjem poslovnog iskustva",
+    "pickJobs" : "Odaberi pozicije koje te zanimaju",
+    "pickJobsSubtitle" : "Pritisni kako bi mogao prilagoditi frekvenciju prikazivanja oglasa za odabranu vrstu posla",
+    "jobProfileFrequencyTitle" : "Oglase za odabranu vrstu posla \"{jobtitle}\" prikazuj",
+    "jobProfileFrequencyRarely" : "Vrlo rijetko",
+    "jobProfileFrequencyOften" : "Vrlo često",
+    "@jobProfileFrequencyTitle": {
+        "placeholders": {
+            "jobtitle": {}
+        }
+    },
+    "enterBasicInfoTitle" : "Još jedan korak si do poslova!",
+    "verifyEmailTitle" : "Poslali smo \uD83D\uDD17 na tvoju email adresu! Verificiraj se jednim klikom!",
+    "continueNext" : "Nastavi",
+    "login" : "Prijavi se",
+    "registationTitle" : "Registracija",
+    "cityPicker" : "Odaberi grad",
+    "continueWithSocial": "Nastavi uz {social}",
+    "@continueWithSocial": {
+         "placeholders": {
+            "social": {}
+        }
+    },
+    "openPositions": "Slobodnih mjesta:",
+    "companyOpenPositions": "{num} otvorenih mjesta",
+    "@companyOpenPositions": {
+        "placeholders": {
+            "num": {}
+        }
+    },
+
+
+
+
+    "workStart": "Početak rada:",
+    "finishApplication": "Završi prijavu",
+    "rateJob": "Ocjeni posao",
+    "matches": "🔥Matchevi",
+    "applications": "Prijave",
+    "saved": "Spremljeno",
+    "completedJobs": "Odrađeno",
+    "shareJob": "Podijeli posao",
+    "jobs": "Poslovi",
+    "galleryPermission": "Dozvolite pristup galeriji u postavkama.",
+    "openSettings": "Otvori postavke",
+    "profile": "Profil"
+
+}
